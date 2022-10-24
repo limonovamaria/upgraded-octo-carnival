@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MINIMIZACIA", "MINIMIZACIA\MINIMIZACIA.csproj", "{C546ABA1-BF3F-4446-BFFC-0FC2E8A04DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C546ABA1-BF3F-4446-BFFC-0FC2E8A04DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C546ABA1-BF3F-4446-BFFC-0FC2E8A04DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C546ABA1-BF3F-4446-BFFC-0FC2E8A04DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C546ABA1-BF3F-4446-BFFC-0FC2E8A04DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF512CF-39D2-4DA9-B8EE-D8879FD975E1}
+	EndGlobalSection
+EndGlobal
